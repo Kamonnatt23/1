@@ -70,7 +70,7 @@ if ($result && mysqli_num_rows($result) > 0) {
                 <a href="minigame.php">Game</a>
             </div>
             <div class="mode-item">
-                <a href="index.php">Logout</a>
+                <a href="index.html">Logout</a>
             </div>
         </div>
     </div>
